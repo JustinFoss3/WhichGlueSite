@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "web": "node ./index.js",
     "start": "node ./index.js",
     "run": "nodemon ./index.js",
     "ui": "browser-sync start --config bs-config.js",
