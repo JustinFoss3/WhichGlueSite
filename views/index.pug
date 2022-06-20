@@ -1,0 +1,21 @@
+extends layout
+
+block layout-content
+  div.View
+    h1.Banner Which Glue Should I Use?
+    h1 Which materials are you trying to bond?
+    form(action="/", method="post")
+        select(name = "material1" id="mat1")
+            each val in materials 
+                option(value=val) #{val}
+        select(name = "material2" id = "mat2")
+            each val in materials 
+                option(value=val) #{val}
+        actions 
+            input(type="submit", name="action", value="Select")
+    - if (glues)
+        h2 To bond #{mat1} and #{mat2}
+        h2 You should use <h3>#{glues[0]}</h3>
+        h2 or <h3>#{glues[1]}</h3>
+        
+

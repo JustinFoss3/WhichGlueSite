@@ -1,0 +1,101 @@
+{
+    "Wood": {
+        "Ceramic": ["Loctite Extreme Gel", "Super Glue"],
+        "Metal": ["Loctite Extreme Gel", "Super Glue"],
+        "Fabric": ["Loctite Extreme Gel", "Super Glue"],
+        "Glass": ["Loctite Extreme Gel", "Super Glue"],
+        "Paper": ["3M General Purpose Spray Adhesive", "PVA Glue"],
+        "Plastic": ["Barge All-Purpose Cement", "Gorilla Two-Part Epoxy"],
+        "Rubber": ["Rubber Cement", "Barge All-Purpose Cement"],
+        "Leather": ["Wood Glue", "Leather & Wood Super Glue"],
+        "Wood": ["Wood Glue", "Polyurethane Glue"]
+    },
+    "Metal": {
+        "Wood": ["Loctite Extreme Gel", "Super Glue"],
+        "Ceramic": ["Super Glue", "Silicone Glue"],
+        "Metal": ["JB KwikWeld", "Liquid Nails"],
+        "Fabric": ["Two-Part Epoxy", "E6000"],
+        "Glass": ["JB Weld", "Super Glue"],
+        "Paper": ["3M General Purpose Spray Adhesive", "Glue Stick"],
+        "Plastic": ["JB Weld Plastic Bonder", "Two-Part Epoxy Putty"],
+        "Rubber": ["Loctite Ultra-Gel Glue", "Super Glue"],
+        "Leather": ["Barge All-Purpose Cement", "E6000"]
+    },
+    "Ceramic": {
+        "Metal": ["Super Glue", "Silicone Glue"],
+        "Wood": ["Loctite Extreme Gel", "Super Glue"],
+        "Fabric": ["3M Super Adhesive Aerosol", "Mod Podge"],
+        "Glass": ["Devcon S31 2-Ton Epoxy", "Weldbond Adhesive"],
+        "Paper": ["Gorilla Super Glue Gel", "E6000"],
+        "Plastic": ["Super Glue", "Loctite 5-Minute Epoxy"],
+        "Rubber": ["Barge All-Purpose Cement", "Amazing Goop Household"],
+        "Leather": ["3M General Purpose Spray Adhesive", "Gorilla Micro Precise Super Glue"],
+        "Ceramic": ["Gorilla Super Glue With Brush and Nozzle Applicator", "JB ClearWeld Epoxy"]
+    },
+    "Fabric": {
+        "Ceramic": ["3M Super Adhesive Aerosol", "Mod Podge"],
+        "Wood": ["Loctite Extreme Gel", "Super Glue"],
+        "Metal": ["Two-Part Epoxy", "E6000"],
+        "Glass": ["Loctite Clear Silicone Sealant", "E6000"],
+        "Paper": ["3M General Purpose Spray Adhesive", "PVA Glue"],
+        "Plastic": ["Loctite Vinyl, Fabric & Plastic Adhesive", "3M General Purpose Spray Adhesive"],
+        "Rubber": ["Gorilla Glue", "3M General Purpose Spray Adhesive"],
+        "Leather": ["Tear Mender Fabric Adhesive", "3M General Purpose Spray Adhesive"],
+        "Fabric": ["Tear Mender Fabric Adhesive", "Gorilla Fabric Glue"]
+    },
+    "Glass": {
+        "Fabric": ["Loctite Clear Silicone Sealant", "E6000"],
+        "Ceramic": ["3M Super Adhesive Aerosol", "Mod Podge"],
+        "Metal": ["JB Weld", "Super Glue"],
+        "Wood": ["Loctite Extreme Gel", "Super Glue"],
+        "Glass": ["Devcon S31 2-ton Epoxy", "Loctite Glass Glue"],
+        "Paper": ["3M General Purpose Spray Adhesive", "Weldbond Adhesive"],
+        "Plastic": ["Gorilla Super Glue Gel", "Loctite Clear Silicone Sealant"],
+        "Rubber": ["E6000", "Super Glue"],
+        "Leather": ["Gorilla Clear Grip Contact Adhesive", "E6000"]
+    },
+    "Paper":{
+        "Paper": ["Elmer's Glue Stick", "Mod Podge"],
+        "Glass": ["3M General Purpose Spray Adhesive", "Weldbond Adhesive"],
+        "Fabric": ["3M General Purpose Spray Adhesive", "PVA Glue"],
+        "Ceramic": ["Gorilla Super Glue Gel", "E6000"],
+        "Metal": ["3M General Purpose Spray Adhesive", "Glue Stick"],
+        "Wood": ["3M General Purpose Spray Adhesive", "PVA Glue"],
+        "Plastic": ["PVA Glue", "Two-Part Epoxy"],
+        "Rubber": ["Barge All-Purpose Cement", "3M General Purpose Spray Adhesive"],
+        "Leather": ["PVA Glue", "Gorilla Glue"]
+    },
+    "Plastic": {
+        "Paper": ["PVA Glue", "Two-Part Epoxy"],
+        "Glass": ["Gorilla Super Glue Gel", "Loctite Clear Silicone Sealant"],
+        "Fabric": ["Loctite Vinyl, Fabric & Plastic Adhesive", "3M General Purpose Spray Adhesive"],
+        "Ceramic": ["Super Glue", "Loctite 5-Minute Epoxy"],
+        "Metal": ["JB Weld Plastic Bonder", "Two-Part Epoxy Putty"],
+        "Wood": ["Barge All-Purpose Cement", "Gorilla Two-Part Epoxy"],
+        "Plastic": ["Super Glue", "Loctite Super Glue Plastics Bonding System"],
+        "Rubber": ["E6000", "Super Glue"],
+        "Leather": ["Barge All-Purpose Cement", "Gorilla Super Glue Gel"]
+    },
+    "Rubber": {
+        "Plastic": ["E6000", "Super Glue"],
+        "Paper": ["Barge All-Purpose Cement", "3M General Purpose Spray Adhesive"],
+        "Glass": ["E6000", "Super Glue"],
+        "Fabric": ["Gorilla Glue", "3M General Purpose Spray Adhesive"],
+        "Ceramic": ["Barge All-Purpose Cement", "Amazing Goop Household"],
+        "Metal": ["Loctite Ultra-Gel Glue", "Super Glue"],
+        "Wood": ["Rubber Cement", "Barge All-Purpose Cement"],
+        "Rubber": ["Loctite Clear Silicone Sealant", "Super Glue"],
+        "Leather": ["Barge All-Purpose Cement", "Technicqll R-341 Adhesive Glue For Shoes"]
+    },
+    "Leather": {
+        "Leather": ["Tandy’s Eco-Flo Leather Weld", "Barge All-Purpose Cement"],
+        "Rubber": ["Barge All-Purpose Cement", "Technicqll R-341 Adhesive Glue For Shoes"],
+        "Plastic": ["Barge All-Purpose Cement", "Gorilla Super Glue Gel"],
+        "Paper": ["PVA Glue", "Gorilla Glue"],
+        "Glass": ["Gorilla Clear Grip Contact Adhesive", "E6000"],
+        "Fabric": ["Tear Mender Fabric Adhesive", "Gorilla Fabric Glue"],
+        "Ceramic": ["3M General Purpose Spray Adhesive", "Gorilla Micro Precise Super Glue"],
+        "Metal": ["Barge All-Purpose Cement", "E6000"],
+        "Wood": ["Wood Glue", "Leather & Wood Super Glue"]
+    }
+}
