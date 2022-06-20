@@ -2,7 +2,7 @@
   "name": "whichglue",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "run": "nodemon ./index.js",
     "ui": "browser-sync start --config bs-config.js",
