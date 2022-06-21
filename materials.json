@@ -123,7 +123,7 @@
         "Paper": ["3M Foam Fast 74 Spray Adhesive", "Mod Podge"],
         "Glass": ["3M Foam Fast 74 Spray Adhesive", "Weldbond Adhesive"],
         "Fabric": ["3M Foam Fast 74 Spray Adhesive", "Tacky Glue"],
-        "Ceramics": ["Super Glue", "E6000"],
+        "Ceramic": ["Super Glue", "E6000"],
         "Metal": ["3M Foam Fast 74 Spray Adhesive", "JB Weld"],
         "Wood": ["Elmer's Probond Advanced Glue", "Gorilla Glue"],
         "Silicone": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
@@ -135,7 +135,7 @@
         "Paper": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
         "Glass": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
         "Fabric": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
-        "Ceramics": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
+        "Ceramic": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
         "Metal": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
         "Wood": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
         "Foam": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
