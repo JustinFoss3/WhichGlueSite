@@ -18,6 +18,10 @@ body,
   width: 100%;
 }
 
+head {
+  font-size:10vw;
+}
+
 body {
   margin: 0;
   padding: 0;
