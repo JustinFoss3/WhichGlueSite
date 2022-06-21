@@ -8,7 +8,9 @@
         "Plastic": ["Barge All-Purpose Cement", "Gorilla Two-Part Epoxy"],
         "Rubber": ["Rubber Cement", "Barge All-Purpose Cement"],
         "Leather": ["Wood Glue", "Leather & Wood Super Glue"],
-        "Wood": ["Wood Glue", "Polyurethane Glue"]
+        "Wood": ["Wood Glue", "Polyurethane Glue"],
+        "Foam": ["Elmer's Probond Advanced Glue", "Gorilla Glue"],
+        "Silicone": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
     },
     "Metal": {
         "Wood": ["Loctite Extreme Gel", "Super Glue"],
@@ -19,7 +21,9 @@
         "Paper": ["3M General Purpose Spray Adhesive", "Glue Stick"],
         "Plastic": ["JB Weld Plastic Bonder", "Two-Part Epoxy Putty"],
         "Rubber": ["Loctite Ultra-Gel Glue", "Super Glue"],
-        "Leather": ["Barge All-Purpose Cement", "E6000"]
+        "Leather": ["Barge All-Purpose Cement", "E6000"],
+        "Foam": ["3M Foam Fast 74 Spray Adhesive", "JB Weld"],
+        "Silicone": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
     },
     "Ceramic": {
         "Metal": ["Super Glue", "Silicone Glue"],
@@ -30,7 +34,9 @@
         "Plastic": ["Super Glue", "Loctite 5-Minute Epoxy"],
         "Rubber": ["Barge All-Purpose Cement", "Amazing Goop Household"],
         "Leather": ["3M General Purpose Spray Adhesive", "Gorilla Micro Precise Super Glue"],
-        "Ceramic": ["Gorilla Super Glue With Brush and Nozzle Applicator", "JB ClearWeld Epoxy"]
+        "Ceramic": ["Gorilla Super Glue With Brush and Nozzle Applicator", "JB ClearWeld Epoxy"],
+        "Foam": ["Super Glue", "E6000"],
+        "Silicone": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
     },
     "Fabric": {
         "Ceramic": ["3M Super Adhesive Aerosol", "Mod Podge"],
@@ -41,7 +47,9 @@
         "Plastic": ["Loctite Vinyl, Fabric & Plastic Adhesive", "3M General Purpose Spray Adhesive"],
         "Rubber": ["Gorilla Glue", "3M General Purpose Spray Adhesive"],
         "Leather": ["Tear Mender Fabric Adhesive", "3M General Purpose Spray Adhesive"],
-        "Fabric": ["Tear Mender Fabric Adhesive", "Gorilla Fabric Glue"]
+        "Fabric": ["Tear Mender Fabric Adhesive", "Gorilla Fabric Glue"],
+        "Foam": ["3M Foam Fast 74 Spray Adhesive", "Tacky Glue"],
+        "Silicone": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
     },
     "Glass": {
         "Fabric": ["Loctite Clear Silicone Sealant", "E6000"],
@@ -52,7 +60,9 @@
         "Paper": ["3M General Purpose Spray Adhesive", "Weldbond Adhesive"],
         "Plastic": ["Gorilla Super Glue Gel", "Loctite Clear Silicone Sealant"],
         "Rubber": ["E6000", "Super Glue"],
-        "Leather": ["Gorilla Clear Grip Contact Adhesive", "E6000"]
+        "Leather": ["Gorilla Clear Grip Contact Adhesive", "E6000"],
+        "Foam": ["3M Foam Fast 74 Spray Adhesive", "Weldbond Adhesive"],
+        "Silicone": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
     },
     "Paper":{
         "Paper": ["Elmer's Glue Stick", "Mod Podge"],
@@ -63,7 +73,9 @@
         "Wood": ["3M General Purpose Spray Adhesive", "PVA Glue"],
         "Plastic": ["PVA Glue", "Two-Part Epoxy"],
         "Rubber": ["Barge All-Purpose Cement", "3M General Purpose Spray Adhesive"],
-        "Leather": ["PVA Glue", "Gorilla Glue"]
+        "Leather": ["PVA Glue", "Gorilla Glue"],
+        "Foam": ["3M Foam Fast 74 Spray Adhesive", "Mod Podge"],
+        "Silicone": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
     },
     "Plastic": {
         "Paper": ["PVA Glue", "Two-Part Epoxy"],
@@ -74,7 +86,9 @@
         "Wood": ["Barge All-Purpose Cement", "Gorilla Two-Part Epoxy"],
         "Plastic": ["Super Glue", "Loctite Super Glue Plastics Bonding System"],
         "Rubber": ["E6000", "Super Glue"],
-        "Leather": ["Barge All-Purpose Cement", "Gorilla Super Glue Gel"]
+        "Leather": ["Barge All-Purpose Cement", "Gorilla Super Glue Gel"],
+        "Foam": ["3M Foam Fast 74 Spray Adhesive", "Contact Cement"],
+        "Silicone": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
     },
     "Rubber": {
         "Plastic": ["E6000", "Super Glue"],
@@ -85,7 +99,9 @@
         "Metal": ["Loctite Ultra-Gel Glue", "Super Glue"],
         "Wood": ["Rubber Cement", "Barge All-Purpose Cement"],
         "Rubber": ["Loctite Clear Silicone Sealant", "Super Glue"],
-        "Leather": ["Barge All-Purpose Cement", "Technicqll R-341 Adhesive Glue For Shoes"]
+        "Leather": ["Barge All-Purpose Cement", "Technicqll R-341 Adhesive Glue For Shoes"],
+        "Foam": ["3M Foam Fast 74 Spray Adhesive", "Contact Cement"],
+        "Silicone": ["Contact Cement", "SIL-poxy Rubber Silicone Adhesive"]
     },
     "Leather": {
         "Leather": ["Tandy’s Eco-Flo Leather Weld", "Barge All-Purpose Cement"],
@@ -96,6 +112,32 @@
         "Fabric": ["Tear Mender Fabric Adhesive", "Gorilla Fabric Glue"],
         "Ceramic": ["3M General Purpose Spray Adhesive", "Gorilla Micro Precise Super Glue"],
         "Metal": ["Barge All-Purpose Cement", "E6000"],
-        "Wood": ["Wood Glue", "Leather & Wood Super Glue"]
+        "Wood": ["Wood Glue", "Leather & Wood Super Glue"],
+        "Foam": ["Contact Cement", "E6000"],
+        "Silicone": ["Contact Cement", "SIL-poxy Rubber Silicone Adhesive"]
+    },
+    "Foam": {
+        "Leather": ["Contact Cement", "E6000"],
+        "Rubber": ["3M Foam Fast 74 Spray Adhesive", "Contact Cement"],
+        "Plastic": ["3M Foam Fast 74 Spray Adhesive", "Contact Cement"],
+        "Paper": ["3M Foam Fast 74 Spray Adhesive", "Mod Podge"],
+        "Glass": ["3M Foam Fast 74 Spray Adhesive", "Weldbond Adhesive"],
+        "Fabric": ["3M Foam Fast 74 Spray Adhesive", "Tacky Glue"],
+        "Ceramics": ["Super Glue", "E6000"],
+        "Metal": ["3M Foam Fast 74 Spray Adhesive", "JB Weld"],
+        "Wood": ["Elmer's Probond Advanced Glue", "Gorilla Glue"],
+        "Silicone": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
+    },
+    "Silicone": {
+        "Leather": ["Contact Cement", "SIL-poxy Rubber Silicone Adhesive"],
+        "Rubber": ["Contact Cement", "SIL-poxy Rubber Silicone Adhesive"],
+        "Plastic": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
+        "Paper": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
+        "Glass": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
+        "Fabric": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
+        "Ceramics": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
+        "Metal": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
+        "Wood": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"],
+        "Foam": ["3M Super Silicone Seal", "SIL-poxy Rubber Silicone Adhesive"]
     }
 }
