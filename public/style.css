@@ -27,6 +27,7 @@ body,
 
 head {
   margin: auto;
+  text-align: center;
 }
 
 body {
@@ -53,6 +54,7 @@ h3 {
 
   padding: 20px;
   margin: auto;
+  text-align: center;
 
   color: #2a3747;
 }
