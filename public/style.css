@@ -2,9 +2,19 @@
 
 /* header fixed padding */
 @media screen and (max-width:767px) {
-.header-announcement-bar-wrapper {
-    padding: 6vw !important;
+    .header-announcement-bar-wrapper {
+        padding: 6vw !important;
+    }
 }
+
+@media screen and (min-width:1000px) {
+    h1 {
+        font-size: 30px;
+    }
+    
+    h3 {
+        font-size: 25px;
+    }
 }
 
 :root {
